@@ -1,4 +1,5 @@
-Elaborado por: Erwin Meza Vega <emezav@unicauca.edu.co>
+Elaborado por: Julian Alejandro Munoz Perez <julianalejom@unicauca.edu.co>
+		Monica Alejandra Castellanos Mendez <monicacastellanos@unicauca.edu.co>
 
 Los Sistemas de Control de Versiones (VCS) permiten guardar el rastro
 de las modificaciones sobre determinados elementos. En el contexto de este
